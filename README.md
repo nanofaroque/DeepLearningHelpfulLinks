@@ -1,6 +1,6 @@
 # DeepLearningHelpfulLinks
 ## Stanford materials: 
-http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
+http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/ </br>
 http://deeplearning.stanford.edu/tutorial/
 
 ## What is pickle in python? 
