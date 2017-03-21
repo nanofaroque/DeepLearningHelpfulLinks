@@ -12,3 +12,5 @@ We dont want to load the data from disk since it is slow. We want to store the d
 http://aishack.in/tutorials/hough-transform-basics/ </br>
 https://www.cs.sfu.ca/~hamarneh/ecopy/compvis1999_hough.pd
 f
+## Deep Learning Training 
+1.http://course.fast.ai/index.html
