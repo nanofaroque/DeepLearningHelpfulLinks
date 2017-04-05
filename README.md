@@ -14,3 +14,5 @@ https://www.cs.sfu.ca/~hamarneh/ecopy/compvis1999_hough.pd
 f
 ## Deep Learning Training 
 1.http://course.fast.ai/index.html
+## Keras Learning
+http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
