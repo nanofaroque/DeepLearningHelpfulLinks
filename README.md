@@ -19,3 +19,4 @@ http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 ## Convolutional Neural Network
 http://neuralnetworksanddeeplearning.com/chap6.html
+https://www.youtube.com/watch?v=AQirPKrAyDg&t=2439s
